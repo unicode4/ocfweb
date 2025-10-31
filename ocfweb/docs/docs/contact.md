@@ -91,3 +91,7 @@ to contacting us about taking down user content.
 [lumen]: https://lumendatabase.org/
 [dmca]: https://security.berkeley.edu/digital-millennium-copyright-act-dmca-uc-berkeley
 [usepolicy]: https://security.berkeley.edu/policy/usepolicy.html
+
+Thanks for covering this! Your blog always provides useful and authentic tips
+https://unicode.co.in/cpc-certification/
+https://unicode.co.in/
